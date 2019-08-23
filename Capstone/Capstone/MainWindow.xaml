@@ -1,0 +1,55 @@
+﻿<Window x:Class="Capstone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capstone"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900"
+        Background="#14213D" FontSize="24">
+    <!--
+    //Colors
+    
+     #000000 - Black
+     #84BCDA - Light Blue
+     #14213D - Dark Blue
+     #4CB5AE - Teal
+     #2E5266 - Gray Blue
+    -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Margin="20" BorderBrush="#2E5266" BorderThickness="30" CornerRadius="3">
+            <Frame Background="#2E5266" x:Name="Main" NavigationUIVisibility="Hidden"></Frame>
+        </Border>
+        <Grid Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Background="#000000" Foreground="#4CB5AE" Click="Button_Click" MinHeight="10" Grid.Column="0" HorizontalAlignment="Stretch">
+                <DockPanel>
+                    <TextBlock DockPanel.Dock="Right">Home</TextBlock>
+                    <Image DockPanel.Dock="Left" Source="/misc/home.png"/>
+                </DockPanel>
+            </Button>
+            <Button Background="#000000" Foreground="#4CB5AE" Click="Button_Click_1"  MinHeight="10" Grid.Column="1" HorizontalAlignment="Stretch">
+                <DockPanel>
+                    <TextBlock DockPanel.Dock="Right">Review</TextBlock>
+                    <Image DockPanel.Dock="Left" Source="/misc/book.png"/>
+                </DockPanel>
+            </Button>
+            <Button Background="#000000" Foreground="#4CB5AE" Click="Button_Click_2" MinHeight="10" Grid.Column="2" >
+                <DockPanel>
+                    <TextBlock DockPanel.Dock="Right">Profile</TextBlock>
+                    <Image DockPanel.Dock="Left" Source="/misc/user.png"/>
+                </DockPanel>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

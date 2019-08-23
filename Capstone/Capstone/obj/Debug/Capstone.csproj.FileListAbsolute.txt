@@ -1,0 +1,406 @@
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ValueTuple.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\netstandard.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.AppContext.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ComponentModel.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Console.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Data.Common.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Globalization.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.Compression.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.Pipes.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Linq.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Http.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Ping.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Requests.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Security.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Sockets.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.ObjectModel.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Reflection.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Resources.Reader.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Resources.Writer.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Claims.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.Principal.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Security.SecureString.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Text.Encoding.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.Thread.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Threading.Timer.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.XPath.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Core.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.LongRunning.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Protobuf.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Auth.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Interactive.Async.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Core.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.LongRunning.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.LongRunning.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Protobuf.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Protobuf.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Auth.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Auth.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Interactive.Async.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.csproj.App.config
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.exe.config
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\MainWindow.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\ProfilePage.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\ReviewPage.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\SubReviewPage.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\App.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone_Content.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone_MarkupCompile.cache
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone_MarkupCompile.lref
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\HomePage.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\MainWindow.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\ProfilePage.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\ReviewPage.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\SubReviewPage.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.g.resources
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.Properties.Resources.resources
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.csproj.GenerateResource.cache
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.csproj.CopyComplete
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\Nodes\ReviewList.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\Nodes\ReviewList.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\Nodes\SpecificReviewPage.g.cs
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Pages\Nodes\SpecificReviewPage.baml
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Capstone.exe.manifest
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\bin\Debug\Capstone.application
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.exe.manifest
+C:\Users\Blake\documents\visual studio 2017\Projects\Capstone\Capstone\obj\Debug\Capstone.application
+D:\Capstone\Capstone\bin\Debug\grpc_csharp_ext.x86.dll
+D:\Capstone\Capstone\bin\Debug\grpc_csharp_ext.x64.dll
+D:\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\Capstone\Capstone\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Capstone\Capstone\bin\Debug\Capstone.exe.config
+D:\Capstone\Capstone\bin\Debug\Capstone.exe.manifest
+D:\Capstone\Capstone\bin\Debug\Capstone.application
+D:\Capstone\Capstone\bin\Debug\Capstone.exe
+D:\Capstone\Capstone\bin\Debug\Capstone.pdb
+D:\Capstone\Capstone\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\netstandard.dll
+D:\Capstone\Capstone\bin\Debug\System.AppContext.dll
+D:\Capstone\Capstone\bin\Debug\System.Collections.Concurrent.dll
+D:\Capstone\Capstone\bin\Debug\System.Collections.dll
+D:\Capstone\Capstone\bin\Debug\System.Collections.NonGeneric.dll
+D:\Capstone\Capstone\bin\Debug\System.Collections.Specialized.dll
+D:\Capstone\Capstone\bin\Debug\System.ComponentModel.dll
+D:\Capstone\Capstone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Capstone\Capstone\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Capstone\Capstone\bin\Debug\System.Console.dll
+D:\Capstone\Capstone\bin\Debug\System.Data.Common.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.Debug.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.Process.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.Tools.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Capstone\Capstone\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Capstone\Capstone\bin\Debug\System.Drawing.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.Dynamic.Runtime.dll
+D:\Capstone\Capstone\bin\Debug\System.Globalization.Calendars.dll
+D:\Capstone\Capstone\bin\Debug\System.Globalization.dll
+D:\Capstone\Capstone\bin\Debug\System.Globalization.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.Compression.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.FileSystem.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.Pipes.dll
+D:\Capstone\Capstone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Capstone\Capstone\bin\Debug\System.Linq.dll
+D:\Capstone\Capstone\bin\Debug\System.Linq.Expressions.dll
+D:\Capstone\Capstone\bin\Debug\System.Linq.Parallel.dll
+D:\Capstone\Capstone\bin\Debug\System.Linq.Queryable.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Http.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.NameResolution.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.NetworkInformation.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Ping.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Requests.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Security.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Sockets.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.WebSockets.dll
+D:\Capstone\Capstone\bin\Debug\System.ObjectModel.dll
+D:\Capstone\Capstone\bin\Debug\System.Reflection.dll
+D:\Capstone\Capstone\bin\Debug\System.Reflection.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\System.Reflection.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.Resources.Reader.dll
+D:\Capstone\Capstone\bin\Debug\System.Resources.ResourceManager.dll
+D:\Capstone\Capstone\bin\Debug\System.Resources.Writer.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Handles.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.InteropServices.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Numerics.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Claims.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.Principal.dll
+D:\Capstone\Capstone\bin\Debug\System.Security.SecureString.dll
+D:\Capstone\Capstone\bin\Debug\System.Text.Encoding.dll
+D:\Capstone\Capstone\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\System.Text.RegularExpressions.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.Overlapped.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.Tasks.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.Thread.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.ThreadPool.dll
+D:\Capstone\Capstone\bin\Debug\System.Threading.Timer.dll
+D:\Capstone\Capstone\bin\Debug\System.ValueTuple.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.XDocument.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.XmlDocument.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.XPath.dll
+D:\Capstone\Capstone\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.dll
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.dll
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Auth.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Core.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.dll
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.dll
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.dll
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.dll
+D:\Capstone\Capstone\bin\Debug\Google.LongRunning.dll
+D:\Capstone\Capstone\bin\Debug\Google.Protobuf.dll
+D:\Capstone\Capstone\bin\Debug\Grpc.Auth.dll
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.Api.dll
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.dll
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\Newtonsoft.Json.dll
+D:\Capstone\Capstone\bin\Debug\System.Collections.Immutable.dll
+D:\Capstone\Capstone\bin\Debug\System.Interactive.Async.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Http.Extensions.dll
+D:\Capstone\Capstone\bin\Debug\System.Net.Http.Primitives.dll
+D:\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Api.CommonProtos.xml
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.xml
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Capstone\Capstone\bin\Debug\Google.Apis.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Apis.xml
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Auth.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Auth.xml
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Core.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Core.xml
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Apis.Storage.v1.xml
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.xml
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Firestore.V1.xml
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Cloud.Storage.V1.xml
+D:\Capstone\Capstone\bin\Debug\Google.LongRunning.pdb
+D:\Capstone\Capstone\bin\Debug\Google.LongRunning.xml
+D:\Capstone\Capstone\bin\Debug\Google.Protobuf.pdb
+D:\Capstone\Capstone\bin\Debug\Google.Protobuf.xml
+D:\Capstone\Capstone\bin\Debug\Grpc.Auth.pdb
+D:\Capstone\Capstone\bin\Debug\Grpc.Auth.xml
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.pdb
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.xml
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.Api.pdb
+D:\Capstone\Capstone\bin\Debug\Grpc.Core.Api.xml
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Capstone\Capstone\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Capstone\Capstone\bin\Debug\Newtonsoft.Json.xml
+D:\Capstone\Capstone\bin\Debug\System.Collections.Immutable.xml
+D:\Capstone\Capstone\bin\Debug\System.Interactive.Async.xml
+D:\Capstone\Capstone\bin\Debug\System.Net.Http.Extensions.xml
+D:\Capstone\Capstone\bin\Debug\System.Net.Http.Primitives.xml
+D:\Capstone\Capstone\obj\Debug\Capstone.csproj.App.config
+D:\Capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+D:\Capstone\Capstone\obj\Debug\Capstone.exe.config
+D:\Capstone\Capstone\obj\Debug\Pages\HomePage.g.cs
+D:\Capstone\Capstone\obj\Debug\MainWindow.g.cs
+D:\Capstone\Capstone\obj\Debug\Pages\Nodes\ReviewList.g.cs
+D:\Capstone\Capstone\obj\Debug\Pages\Nodes\SpecificReviewPage.g.cs
+D:\Capstone\Capstone\obj\Debug\Pages\ProfilePage.g.cs
+D:\Capstone\Capstone\obj\Debug\Pages\ReviewPage.g.cs
+D:\Capstone\Capstone\obj\Debug\Pages\SubReviewPage.g.cs
+D:\Capstone\Capstone\obj\Debug\App.g.cs
+D:\Capstone\Capstone\obj\Debug\Capstone_Content.g.cs
+D:\Capstone\Capstone\obj\Debug\Capstone_MarkupCompile.cache
+D:\Capstone\Capstone\obj\Debug\Capstone_MarkupCompile.lref
+D:\Capstone\Capstone\obj\Debug\Pages\HomePage.baml
+D:\Capstone\Capstone\obj\Debug\MainWindow.baml
+D:\Capstone\Capstone\obj\Debug\Pages\Nodes\ReviewList.baml
+D:\Capstone\Capstone\obj\Debug\Pages\Nodes\SpecificReviewPage.baml
+D:\Capstone\Capstone\obj\Debug\Pages\ProfilePage.baml
+D:\Capstone\Capstone\obj\Debug\Pages\ReviewPage.baml
+D:\Capstone\Capstone\obj\Debug\Pages\SubReviewPage.baml
+D:\Capstone\Capstone\obj\Debug\Capstone.g.resources
+D:\Capstone\Capstone\obj\Debug\Capstone.Properties.Resources.resources
+D:\Capstone\Capstone\obj\Debug\Capstone.csproj.GenerateResource.cache
+D:\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+D:\Capstone\Capstone\obj\Debug\Capstone.exe.manifest
+D:\Capstone\Capstone\obj\Debug\Capstone.application
+D:\Capstone\Capstone\obj\Debug\Capstone.csproj.CopyComplete
+D:\Capstone\Capstone\obj\Debug\Capstone.exe
+D:\Capstone\Capstone\obj\Debug\Capstone.pdb
