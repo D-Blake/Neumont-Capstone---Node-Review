@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Capstone\Capstone\obj\Debug\
+C:\Users\black\Documents\GitHub\Capstone\Capstone\Capstone\obj\Debug\
 Capstone
 none
 false
 DEBUG;TRACE
-D:\Capstone\Capstone\App.xaml
+C:\Users\black\Documents\GitHub\Capstone\Capstone\Capstone\App.xaml
 71991383731
-6-1921523134
-141851937477
-1471290664332
+6337333224
+151258636977
+14784093885
 Pages\HomePage.xaml;MainWindow.xaml;Pages\Nodes\ReviewList.xaml;Pages\Nodes\SpecificReviewPage.xaml;Pages\ProfilePage.xaml;Pages\ReviewPage.xaml;Pages\SubReviewPage.xaml;
 
-False
+True
 
